@@ -1,0 +1,20 @@
+#!/usr/bin/expect -f
+
+set arg1 [lindex $argv 0]
+
+
+spawn ssh-copy-id cephuser@$arg1
+
+expect {
+  "yes" {
+    send "yes\r"
+    expect "password:"
+    send "ceph\r"
+    # exp_continue
+  }
+  "password:" {
+    send "ceph\r"
+  }
+}
+interact
+

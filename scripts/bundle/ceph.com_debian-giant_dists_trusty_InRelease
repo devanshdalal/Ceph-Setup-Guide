@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: Inktank
+Suite: stable
+Codename: trusty
+Date: Mon, 09 Mar 2015 15:44:44 UTC
+Architectures: amd64 armhf i386
+Components: main
+Description: Ceph distributed file system
+MD5Sum:
+ e78eb01bc981f59d5f48dcf5fd5c14cd 32562 main/binary-amd64/Packages
+ b3aedbedb55b9bc035cd82397ac35ad2 7090 main/binary-amd64/Packages.gz
+ 88ffeb30ef50881df8c6f18a3dd15f94 6926 main/binary-amd64/Packages.bz2
+ 17cee7035962f6e6c6a176d6be7f3d22 110 main/binary-amd64/Release
+ 2d1a2086411fd2c90fd491d32851af29 1367 main/binary-armhf/Packages
+ 1a5b4ff5b4046aacf5974148b3e6dc1b 682 main/binary-armhf/Packages.gz
+ 2dec70e25cb8f13ce40907138bd84e65 785 main/binary-armhf/Packages.bz2
+ 301f213fc62f064e1cc5e85b931ac26a 110 main/binary-armhf/Release
+ 2d1a2086411fd2c90fd491d32851af29 1367 main/binary-i386/Packages
+ 1a5b4ff5b4046aacf5974148b3e6dc1b 682 main/binary-i386/Packages.gz
+ 2dec70e25cb8f13ce40907138bd84e65 785 main/binary-i386/Packages.bz2
+ e62c295831e9d52c5c54ceb2a37cf55e 109 main/binary-i386/Release
+ f283df4931f6e26eced821e42bb01133 2001 main/source/Sources
+ 9c05e5912cebe9e59d30104c70609ca2 818 main/source/Sources.gz
+ 7072cf67b52863260a7900bb10cc4e3e 923 main/source/Sources.bz2
+ fc819246cce636b9baffede8a57975cf 111 main/source/Release
+ fe64303d42378b0e5282837019208d19 47329 main/Contents-amd64
+ f936aec54b4c143031a16ad6cadd5867 4620 main/Contents-amd64.gz
+ 256891df21fecc1e0526590fe7b42aea 3874 main/Contents-amd64.bz2
+ 140065f8fe9990363d8014ea547478d9 12989 main/Contents-armhf
+ a6e8b36c006c46563898b7e8a972eee3 1022 main/Contents-armhf.gz
+ 5ac74487d5d391750ddc99e8e91c5d9c 1066 main/Contents-armhf.bz2
+ 140065f8fe9990363d8014ea547478d9 12989 main/Contents-i386
+ a6e8b36c006c46563898b7e8a972eee3 1022 main/Contents-i386.gz
+ 5ac74487d5d391750ddc99e8e91c5d9c 1066 main/Contents-i386.bz2
+SHA1:
+ aebcd81f38a52bad210d4bf776611ffb1652583c 32562 main/binary-amd64/Packages
+ 25b6368eda51f7b1a9ec41072ed31cd9b9c69f9e 7090 main/binary-amd64/Packages.gz
+ da7a9ecb97539815f722683907883de6c6a21586 6926 main/binary-amd64/Packages.bz2
+ 2b89cc800c58e6fa8415400baffda6e25725e61f 110 main/binary-amd64/Release
+ 235f0cf9c927ee2268e9d403e3bdc3142385ce79 1367 main/binary-armhf/Packages
+ 305cab047f8df8a4a402ea52cc769463af6ff8fa 682 main/binary-armhf/Packages.gz
+ dcb3b93d86d794d2168d883b195ba727f41a56f5 785 main/binary-armhf/Packages.bz2
+ 9f78d00a42c9602623a69b5ccd59f75600b9a87c 110 main/binary-armhf/Release
+ 235f0cf9c927ee2268e9d403e3bdc3142385ce79 1367 main/binary-i386/Packages
+ 305cab047f8df8a4a402ea52cc769463af6ff8fa 682 main/binary-i386/Packages.gz
+ dcb3b93d86d794d2168d883b195ba727f41a56f5 785 main/binary-i386/Packages.bz2
+ 1c9463ece71f799f26eac19e5ef8845c4afce325 109 main/binary-i386/Release
+ 976052bbdf4583b8e87e529555d35deb6418d6e5 2001 main/source/Sources
+ b1371ba0f64bce224005cea952d2aeb4f1b31e7e 818 main/source/Sources.gz
+ 21a04fe5680fbba19b3a1f6b49990e3331e02ec0 923 main/source/Sources.bz2
+ 53944f9d82a2cfe524cc3cc68c6f0da5d98ff7c6 111 main/source/Release
+ 25cb50f44eb6fa55008ddaee563f3347c3d6413d 47329 main/Contents-amd64
+ 5e3f65af30e239edcd6d96f6c8d59e0a0da6acf4 4620 main/Contents-amd64.gz
+ a91b58feaf683cccccdb73b211fac3775e64697f 3874 main/Contents-amd64.bz2
+ 6c14a4ede94ea312f4935e95f3eac7b21dff981a 12989 main/Contents-armhf
+ 030e5ca738969b3b05ef48f8a2531d8afb34c74c 1022 main/Contents-armhf.gz
+ c59dc9b9a6b4425ea4cbb2ea6895788f3f7ed191 1066 main/Contents-armhf.bz2
+ 6c14a4ede94ea312f4935e95f3eac7b21dff981a 12989 main/Contents-i386
+ 030e5ca738969b3b05ef48f8a2531d8afb34c74c 1022 main/Contents-i386.gz
+ c59dc9b9a6b4425ea4cbb2ea6895788f3f7ed191 1066 main/Contents-i386.bz2
+SHA256:
+ 296181f9face2745be8e92660865848a15e74558dd64bbbb969655913a9cf75f 32562 main/binary-amd64/Packages
+ 99a699b20d89fb0ed36cfa52afd2c2c63f8a81a45ccb9a10eaced6e695c72aaf 7090 main/binary-amd64/Packages.gz
+ 77a81b3422d21eed348a816a913d47dadf524319c61f4c53f226520b7bd6e3cf 6926 main/binary-amd64/Packages.bz2
+ 3e3f98d0f57401eebd4af5a3975eea2bcdca503d1b1992575de82e8b907cdeb7 110 main/binary-amd64/Release
+ f9b26ba0ce76f99f8ffd79d0e29575d38e1b705ff1dc6d6de01364913a6cc5e8 1367 main/binary-armhf/Packages
+ 0a604d4c37e140b5664f35251bd680c8c4778afc7ccd96cc9865240d46c42de6 682 main/binary-armhf/Packages.gz
+ 03acb2fec8780f76bab65abc37a37e0761c08cf5bfe3e51cd6c02ccfd5ce21d1 785 main/binary-armhf/Packages.bz2
+ df771492ef03a3e03d185c8453d4cf37a8e2d1e15af48fbeb6f55cef4bdc7229 110 main/binary-armhf/Release
+ f9b26ba0ce76f99f8ffd79d0e29575d38e1b705ff1dc6d6de01364913a6cc5e8 1367 main/binary-i386/Packages
+ 0a604d4c37e140b5664f35251bd680c8c4778afc7ccd96cc9865240d46c42de6 682 main/binary-i386/Packages.gz
+ 03acb2fec8780f76bab65abc37a37e0761c08cf5bfe3e51cd6c02ccfd5ce21d1 785 main/binary-i386/Packages.bz2
+ a814144aa03c237d7ab40b667c11ff052c160c0cb1767d6d03d4abf8e11c3013 109 main/binary-i386/Release
+ 521f19a6ddc4fc6af80e2e170123f8233f0336066bba3e28a87b23b24f2402b4 2001 main/source/Sources
+ 43c6db988f3fa03d84b48641437f1a142518c23deab9a4de63944531d49693f6 818 main/source/Sources.gz
+ 1a32ed78f7323bf1f4d909ddeb1b54d7f81afc285ec1118cf217bd747359b89b 923 main/source/Sources.bz2
+ 47c7e72768c754ef2bdb5ef3b97a025598ee02096ce6f0b543479d5dfafb4018 111 main/source/Release
+ 596e63fec6f2153a65cef332ef0c8ba18ba7fb3ca4d31bec91b2577e168ce5b9 47329 main/Contents-amd64
+ 5a7b0c6a8f0fcdf803d630c9b55eeec51e62ed76085a44c6059eef495d0d9c37 4620 main/Contents-amd64.gz
+ ca65f92dd3bdd21e7be494b8875ccb17f9ff8d19ddd887f81965d371df8b94d7 3874 main/Contents-amd64.bz2
+ 5a2d9c43d8e3d102394a831534c0ccaed09a9648e49d53c1d14292a05928c434 12989 main/Contents-armhf
+ 5b48afa66cada5586687ffc16ef55c0e6edd99b8661c118188190fc439cca25d 1022 main/Contents-armhf.gz
+ b735efebc53df6e5706d8a5f1bbdfc17777eca7f6277cc2819d7527d85e66ea1 1066 main/Contents-armhf.bz2
+ 5a2d9c43d8e3d102394a831534c0ccaed09a9648e49d53c1d14292a05928c434 12989 main/Contents-i386
+ 5b48afa66cada5586687ffc16ef55c0e6edd99b8661c118188190fc439cca25d 1022 main/Contents-i386.gz
+ b735efebc53df6e5706d8a5f1bbdfc17777eca7f6277cc2819d7527d85e66ea1 1066 main/Contents-i386.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJU/b/tAAoJEH6/3V0X7TFtcA4QALQmk/doSdnIebUBaQ1NJ6yx
+Zhv5WNAB1piPBD5Tedqu+gehHEFzaLKtSq84+sb8xVrwMJ2s1M9z2mlrB3jEY2kn
+EuthVRUKnpuKPbQTFiWGSaNdUE0n12azLUms2doPvv0OWQ/r9QkCUjpW/OzckIDe
+iJZPzPoYVO9halT+409HBqPjoOBaE5i/+O2S4V3dHvr24XmUL3lEr4vzSk8weCcS
+0gmUr9jNRVkLbgAsb8RGUNpYi4nLRdDgwGNjRqfWuHQHOfzlKbwXag87db25BYoe
+81nr66WpXDVbEKoDi70bl4R0SKjy5wwRg+XnQ2vwOSi8ijGI+nxBnFSXmQ0jixLT
+DqUXApCtmAnhtPlKnND9B5Bs/Puu6Mc5ISKyNGfRNRVGGueQtOiCOm1Pc6/3/ejv
+KPlfJXLOZIKS9qDaPGM/H6xDt4NToe8L+f0XhGVhPVN3utP/cIa+NdbYaxZumNuc
+kbOWiLm5uA6Ich86mrMVGnzCEcF0uZkT/hlvJ4RYXO0n1PLgNOEPYotBq9q5KeZD
+eDpLGouC9QuoiT8PufFQTaT/S4k4VBlIAnfUzPOKT9ommNTOXZALAsuxHFh3Tkci
+TrL+gMnQOs1nMWwJVvqFV6icjiAZ47IvyW6LkIDBpTsKjgobGixBHNjnQ09MB3ZE
+8P5ypVlZnXmpgSXZHKzp
+=GTXG
+-----END PGP SIGNATURE-----

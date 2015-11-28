@@ -52,7 +52,7 @@ USAGE:
 ./copy_id $HOST
 
 ./put.sh $HOST
-# put the required packages and their dependencies on the $HOST and installs ceph and ceph-mds packages on it.
+# puts the required packages and their dependencies on the $HOST and installs ceph and ceph-mds packages on it.
 
 ./genOSD $HOST
 # deploys the ceph osd and creates the directry /var/local/osd shared for distributed storage .
